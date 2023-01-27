@@ -1,1 +1,3 @@
 # g2o-python-examples
+
+![example g2o image](https://www.plantuml.com/plantuml/png/RP5D2eCm44RtSuhikfAId-n4l4SfOZNLW9gIJY5u-iOsmLd4rUDx3nb8-yRUusTT02wBUI93nxoTPcIZzMP0wpP0zphcXqDqAzdZTs2_JOjXWRCRr6kFSnCwNbz_17TQ25A8OY598Ok58eKg5feK-YnWi7w8VZ_lt3jUy89uKV2IU4byuApoLSE2W20IIWWoeOAW4kf_NCLROff19iYJo5C4bI1J_AzE0AtPnlX-Nm00)
